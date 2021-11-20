@@ -1,5 +1,7 @@
 #include <iostream>
 
+// here i use a binary search
+
 class Solution {
 public:
     int mySqrt(const int& x)
